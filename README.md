@@ -1,8 +1,9 @@
-# Algoritmos e estrutura de dados I meus primeiros códigos
+# Algoritmos e Estrutura de Dados I - Meus Primeiros Códigos
 
+## Introdução
 
-##  Introdução
-Este repositório contém os meus códigos em C com ponteiros, com base nas aulas de Algoritmos e estruturas de dados I da Faculdade UFERSA - Campus Pau dos Ferros.
+Este repositório contém os meus primeiros códigos em C, focados no uso de ponteiros, baseados nas aulas de Algoritmos e Estruturas de Dados I da Universidade Federal Rural do Semi-Árido (UFERSA) - Campus Pau dos Ferros.
 
 ## Informações Adicionais
-Os códigos contam com elementos em C relacionados a ponteiros, assim como aprensentado nas aulas de Algoritmos e estrutura de dados I.
+
+Os códigos presentes neste repositório abordam diversos elementos da linguagem C relacionados a ponteiros, conforme aprendido nas aulas de Algoritmos e Estruturas de Dados I.
