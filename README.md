@@ -6,4 +6,4 @@ Este repositório contém os meus primeiros códigos em C, focados no uso de Pon
 
 ## Informações Adicionais
 
-Os códigos presentes neste repositório abordam diversos elementos da linguagem C relacionados a Ponteiros, Alocação dinâmica e Tipos estruturados, conforme aprendido nas aulas de Algoritmos e Estruturas de Dados I.
+Os códigos presentes neste repositório abordam diversos elementos da linguagem C relacionados a Ponteiros, Alocação dinâmica e Tipos estruturados, TAD, Arquivo, Complexidade de tempo e espaço, conforme aprendido nas aulas de Algoritmos e Estruturas de Dados I.
