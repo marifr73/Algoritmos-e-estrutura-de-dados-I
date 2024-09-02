@@ -1,0 +1,80 @@
+Nome: Carol
+Idade: 19
+Media: 9.5
+
+Nome: Olivia
+Idade: 19
+Media: 9.5
+
+Nome: Heloise
+Idade: 21
+Media: 9.1
+
+Nome: Eduardo
+Idade: 20
+Media: 9.1
+
+Nome: Tamires
+Idade: 20
+Media: 8.9
+
+Nome: Luciene
+Idade: 22
+Media: 8.9
+
+Nome: Rita
+Idade: 22
+Media: 8.5
+
+Nome: Naelly
+Idade: 20
+Media: 8.4
+
+Nome: Gracelia
+Idade: 22
+Media: 8.3
+
+Nome: Alice
+Idade: 20
+Media: 8.2
+
+Nome: Vania
+Idade: 19
+Media: 8.2
+
+Nome: Maria
+Idade: 21
+Media: 8.0
+
+Nome: Jose
+Idade: 20
+Media: 7.7
+
+Nome: Bia
+Idade: 22
+Media: 7.3
+
+Nome: Daniele
+Idade: 21
+Media: 7.2
+
+Nome: Paulo
+Idade: 23
+Media: 7.2
+
+Nome: Saluana
+Idade: 21
+Media: 7.1
+
+Nome: Ikaro
+Idade: 19
+Media: 7.0
+
+Nome: Kamila
+Idade: 23
+Media: 6.8
+
+Nome: Francisca
+Idade: 23
+Media: 6.2
+
