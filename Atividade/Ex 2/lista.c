@@ -38,18 +38,23 @@ No* inserir_no_fim(No* lista, int valor) {
 }
 
 void exibir_lista(No *lista) {
-    No *count;
-    for (count = lista; count != NULL; count = count->prox) {
-        printf("%d -> ", count->valor);
-    }
-}
+    No *count;  
+    if (lista == NULL) {  
+        printf("Lista vazia\n");  
+        return;  
+    }  
+
+    for (count = lista; count != NULL; count = count->prox) {  
+        printf("%d -> ", count->valor);  
+    }  
+} 
 
 No* remover_primeiro(No* lista) {
     if (lista == NULL) {
         return NULL;
     }
 
-    No* count = lista;
+    No *count = lista;
     lista = lista->prox;
     free(count);
     return lista;
@@ -73,7 +78,6 @@ No* buscar(int valor, No *lista) {
             return count;
         }
     }
-    printf("\nValor não encontrado.\n");
     return NULL;
 }
 
@@ -108,7 +112,7 @@ No* inserir_apos(No* lista, int valor, int novo_valor) {
 
     No* count;
     for (count = lista; count != NULL; count = count->prox) {
-        if (count->valor = valor) {
+        if (count->valor == valor) {
             novo_elemento->prox = count->prox;
             count->prox = novo_elemento;
             return lista;
